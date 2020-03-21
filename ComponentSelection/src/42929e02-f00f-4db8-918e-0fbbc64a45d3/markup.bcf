@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Markup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <File IfcProject="3LIQL2UvjC6xkGKOQxhhVW" isExternal="false">
+      <Filename>Estructura.ifc</Filename>
+      <Date>2014-02-25T11:50:32</Date>
+      <Reference>../Estructura.ifc</Reference>
+    </File>
+  </Header>
+  <Topic Guid="42929e02-f00f-4db8-918e-0fbbc64a45d3">
+    <Title>Component Selection</Title>
+    <Index>0</Index>
+    <CreationDate>2015-10-16T08:17:12.2465436Z</CreationDate>
+    <CreationAuthor>dangl@iabi.eu</CreationAuthor>
+    <Description>This topic has three selected components (as shown in the snapshot). All other components should be displayed with their default settings.</Description>
+  </Topic>
+  <Viewpoints Guid="7dbad10b-71d1-430c-9f6b-2fd86b59c559">
+    <Viewpoint>Viewpoint_7dbad10b-71d1-430c-9f6b-2fd86b59c559.bcfv</Viewpoint>
+    <Snapshot>Snapshot_7dbad10b-71d1-430c-9f6b-2fd86b59c559.png</Snapshot>
+  </Viewpoints>
+</Markup>

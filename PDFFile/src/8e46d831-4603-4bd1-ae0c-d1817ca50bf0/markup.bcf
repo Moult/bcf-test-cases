@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Markup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Topic Guid="8e46d831-4603-4bd1-ae0c-d1817ca50bf0">
+    <Title>PDF File</Title>
+    <Index>0</Index>
+    <CreationDate>2015-09-23T11:51:24.6865809Z</CreationDate>
+    <CreationAuthor>dangl@iabi.eu</CreationAuthor>
+    <Description>This topic has a document reference to an internal PDF file in the directory root.</Description>
+    <DocumentReferences>
+      <ReferencedDocument>../Requirements.pdf</ReferencedDocument>
+      <Description>Project requirements (pdf)</Description>
+    </DocumentReferences>
+  </Topic>
+</Markup>

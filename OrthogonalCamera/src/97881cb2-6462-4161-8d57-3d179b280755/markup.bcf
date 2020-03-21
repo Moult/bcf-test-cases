@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Markup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <File IfcProject="3LIQL2UvjC6xkGKOQxhhVW" isExternal="false">
+      <Filename>Estructura.ifc</Filename>
+      <Date>2014-02-25T11:50:32</Date>
+      <Reference>../Estructura.ifc</Reference>
+    </File>
+  </Header>
+  <Topic Guid="97881cb2-6462-4161-8d57-3d179b280755">
+    <Title>Orthogonal Camera</Title>
+    <Index>0</Index>
+    <CreationDate>2015-10-16T07:51:52.1865194Z</CreationDate>
+    <CreationAuthor>dangl@iabi.eu</CreationAuthor>
+    <Description>This topic has a single viewpoint with an orthogonal camera. The viewpoint camera was manually created and should provide a straight view from the center of the coordinate system top down to the model.</Description>
+  </Topic>
+  <Viewpoints Guid="f3c07233-6f6f-4410-b6a7-184d2ca3df78">
+    <Viewpoint>Viewpoint_f3c07233-6f6f-4410-b6a7-184d2ca3df78.bcfv</Viewpoint>
+    <Snapshot>Snapshot_f3c07233-6f6f-4410-b6a7-184d2ca3df78.png</Snapshot>
+  </Viewpoints>
+</Markup>

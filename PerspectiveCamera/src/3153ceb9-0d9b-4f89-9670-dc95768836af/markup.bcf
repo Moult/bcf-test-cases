@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Markup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <File IfcProject="3LIQL2UvjC6xkGKOQxhhVW" isExternal="false">
+      <Filename>Estructura.ifc</Filename>
+      <Date>2014-02-25T11:50:32</Date>
+      <Reference>../Estructura.ifc</Reference>
+    </File>
+  </Header>
+  <Topic Guid="3153ceb9-0d9b-4f89-9670-dc95768836af">
+    <Title>Perspective Camera</Title>
+    <Index>0</Index>
+    <CreationDate>2015-10-16T07:34:30.6313195Z</CreationDate>
+    <CreationAuthor>dangl@iabi.eu</CreationAuthor>
+    <Description>This topic has a single viewpoint with a perspective camera.</Description>
+  </Topic>
+  <Viewpoints Guid="95d4dd50-b281-4889-9ea1-9ecbae0d6efd">
+    <Viewpoint>Viewpoint_95d4dd50-b281-4889-9ea1-9ecbae0d6efd.bcfv</Viewpoint>
+    <Snapshot>Snapshot_95d4dd50-b281-4889-9ea1-9ecbae0d6efd.png</Snapshot>
+  </Viewpoints>
+</Markup>

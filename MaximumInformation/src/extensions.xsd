@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:redefine schemaLocation="markup.xsd">
+    <xs:simpleType name="TopicType">
+      <xs:restriction>
+        <xs:enumeration value="Architecture" />
+        <xs:enumeration value="Hidden Type" />
+        <xs:enumeration value="Structural" />
+      </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="TopicStatus">
+      <xs:restriction>
+        <xs:enumeration value="Finished status" />
+        <xs:enumeration value="Open" />
+        <xs:enumeration value="Closed" />
+      </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="TopicLabel">
+      <xs:restriction>
+        <xs:enumeration value="Architecture" />
+        <xs:enumeration value="IT Development" />
+        <xs:enumeration value="Management" />
+        <xs:enumeration value="Mechanical" />
+        <xs:enumeration value="Structural" />
+      </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="SnippetType">
+      <xs:restriction>
+        <xs:enumeration value="IFC2X3" />
+        <xs:enumeration value="PDF" />
+        <xs:enumeration value="XLSX" />
+      </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="Priority">
+      <xs:restriction>
+        <xs:enumeration value="Low" />
+        <xs:enumeration value="High" />
+        <xs:enumeration value="Medium" />
+      </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="UserIdType">
+      <xs:restriction>
+        <xs:enumeration value="dangl@iabi.eu" />
+        <xs:enumeration value="linhard@iabi.eu" />
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:redefine>
+</xs:schema>

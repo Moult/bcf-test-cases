@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Markup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="markup.xsd">
+    <Header>
+        <File IfcProject="2SugUv4EX5LAhcVpDp2dUH">
+            <Filename>C:\e.ifc</Filename>
+            <Date>2015-06-09T09:39:06+03:00</Date>
+        </File>
+    </Header>
+    <Topic Guid="cd91fb0b-a7a4-446a-81aa-382840ccde7a" TopicType="Error" TopicStatus="Open">
+        <Title>only parent component listed</Title>
+        <Index>0</Index>
+        <CreationDate>2015-09-28T14:38:27+03:00</CreationDate>
+        <CreationAuthor>rsu</CreationAuthor>
+        <ModifiedDate>2015-09-28T14:38:27+03:00</ModifiedDate>
+        <ModifiedAuthor>rsu</ModifiedAuthor>
+        <AssignedTo></AssignedTo>
+        <Description>Curtainwall is listed</Description>
+    </Topic>
+    <Comment Guid="d6915241-52b4-4e66-ab23-6f77793b551d">
+        <VerbalStatus>Open</VerbalStatus>
+        <Status>Error</Status>
+        <Date>2015-09-28T14:38:27+03:00</Date>
+        <Author>rsu</Author>
+        <Comment></Comment>
+        <ModifiedDate>2015-09-28T14:38:27+03:00</ModifiedDate>
+    </Comment>
+    <Viewpoints Guid="ac9c67bd-da82-4b85-9a5d-6a9c7e9b9a30">
+        <Viewpoint>viewpoint.bcfv</Viewpoint>
+        <Snapshot>snapshot.png</Snapshot>
+    </Viewpoints>
+</Markup>

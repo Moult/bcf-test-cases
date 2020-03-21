@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Markup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Topic Guid="844496EA-0E0A-4071-A3EA-6EDF97458734" TopicType="Information" TopicStatus="Open">
+    <Title>Test case for checking extension schema within the BCFZip container.</Title>
+    <CreationDate>2015-09-23T11:51:25.778663Z</CreationDate>
+    <CreationAuthor>Developer@example.com</CreationAuthor>
+  </Topic>
+</Markup>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:redefine schemaLocation="markup.xsd">
+    <xs:simpleType name="TopicType">
+      <xs:restriction>
+        <xs:enumeration value="Information" />
+        <xs:enumeration value="Warning" />
+        <xs:enumeration value="Error" />
+        <xs:enumeration value="Request" />
+      </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="TopicStatus">
+      <xs:restriction>
+        <xs:enumeration value="Open" />
+        <xs:enumeration value="Closed" />
+        <xs:enumeration value="Reopened" />
+      </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="TopicLabel">
+      <xs:restriction>
+        <xs:enumeration value="Development" />
+        <xs:enumeration value="Architecture" />
+        <xs:enumeration value="MEP" />
+      </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="SnippetType">
+      <xs:restriction>
+        <xs:enumeration value="IFC2X3" />
+        <xs:enumeration value="IFC4" />
+        <xs:enumeration value="JSON" />
+      </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="Priority">
+      <xs:restriction>
+        <xs:enumeration value="Low" />
+        <xs:enumeration value="Medium" />
+        <xs:enumeration value="High" />
+      </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="UserIdType">
+      <xs:restriction>
+        <xs:enumeration value="Architect@example.com" />
+        <xs:enumeration value="MEPEngineer@example.com" />
+        <xs:enumeration value="Developer@example.com" />
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:redefine>
+</xs:schema>

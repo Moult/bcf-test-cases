@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Markup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Topic Guid="c26df753-b8af-42f2-b7cf-81a70b49f362">
+    <Title>External BIM Snippet</Title>
+    <Index>0</Index>
+    <CreationDate>2015-09-23T11:51:24.6395787Z</CreationDate>
+    <CreationAuthor>dangl@iabi.eu</CreationAuthor>
+    <Description>This topic has an external BIM Snippet reference</Description>
+    <BimSnippet SnippetType="JSON" isExternal="true">
+      <Reference>http://bimfiles.example.com/JsonElement.json</Reference>
+      <ReferenceSchema>http://json-schema.org</ReferenceSchema>
+    </BimSnippet>
+  </Topic>
+</Markup>
